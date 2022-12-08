@@ -1,0 +1,14 @@
+{
+  "name": "whirligig20913",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "superslot Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ superslot เว็บสล็อตออนไลน์ ซูปเปอร์สล็อตเว็บตรง เว็บไซต์หลัก",
+  "keywords": [
+    "superslot Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ superslot เว็บสล็อตออนไลน์ ซูปเปอร์สล็อตเว็บตรง เว็บไซต์หลัก"
+  ],
+  "repository": "https://github.com/yorkinyellow/whirligig20913",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
